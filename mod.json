@@ -1,0 +1,14 @@
+{
+	"geode": "5.10.1",
+	"gd": {
+		"win": "2.2081",
+		"android": "2.2081",
+		"mac": "2.2081",
+		"ios": "2.2081"
+	},
+	"id": "sleepen.level-linker",
+	"name": "Level Linker",
+	"version": "1.0.0",
+	"developer": "sleepen",
+	"description": "Link an online level with one of your created levels and switch between them with a single click."
+}
